@@ -9,6 +9,10 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
+    "csvtojson": "^2.0.8",
+    "jquery-csv": "^1.0.3",
+    "keylines": "file:../keylines-5.4.1-30690",
+    "papaparse": "^5.0.0",
     "vue": "^2.6.10"
   },
   "devDependencies": {
